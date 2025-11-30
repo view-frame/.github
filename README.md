@@ -29,5 +29,9 @@ Upload your videos directly through Viewframe with AI-generated metadata based o
 At Viewframe, we believe that keeping your channel thriving shouldn’t be locked behind a paywall. That’s why we’re committed to providing professional-grade tools—completely free—so every creator has the power to grow, create, and succeed without limits.
 
 ## Donate & Support
-If you like our app, please consider donating to help keep Viewframe free forever: 
+If you like our app, please consider donating to help keep Viewframe free forever:  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I71PA2XN)
+
+> [! WARNING]
+> Viewframe is still in a beta stage.
+> Some services may be slightly unstable or there may be bugs.
